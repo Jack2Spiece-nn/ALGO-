@@ -1,0 +1,530 @@
+2025-07-10 03:28:15.087 | INFO     | utils.logger:log_info:258 | Setup validation test
+2025-07-10 03:29:51.472 | INFO     | utils.logger:log_info:258 | Setup validation test
+2025-07-10 03:30:20.794 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:30:20.796 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:30:20.799 | INFO     | utils.logger:log_info:258 | Setup validation test
+2025-07-10 03:30:34.784 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:30:34.797 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:30:34.798 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:30:34.799 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:30:34.800 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for SPY
+2025-07-10 03:30:34.801 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:30:34.801 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for QQQ
+2025-07-10 03:30:34.801 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:30:34.801 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for IWM
+2025-07-10 03:30:34.802 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:30:34.802 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VTI
+2025-07-10 03:30:34.802 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:30:34.802 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VOO
+2025-07-10 03:30:34.802 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:30:34.803 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:30:34.804 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:30:34.804 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:30:34.804 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:30:34.805 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:30:34.805 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:30:34.805 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:30:35.781 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:30:35.781 | INFO     | src.utils.logger:log_info:258 | Alpaca executor initialized (Paper: True)
+2025-07-10 03:30:36.427 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:30:36.427 | INFO     | src.utils.logger:log_info:258 | Alpaca executor initialized (Paper: True)
+2025-07-10 03:30:36.429 | INFO     | src.utils.logger:log_info:258 | Risk manager initialized
+2025-07-10 03:30:36.429 | INFO     | utils.logger:log_info:258 | Setup validation test
+2025-07-10 03:30:36.429 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:30:36.430 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for SPY
+2025-07-10 03:30:36.430 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:31:04.678 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:31:05.262 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:31:05.263 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:31:05.265 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:31:05.266 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for SPY
+2025-07-10 03:31:05.267 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:31:05.267 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for QQQ
+2025-07-10 03:31:05.267 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:31:05.267 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for IWM
+2025-07-10 03:31:05.267 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:31:05.268 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VTI
+2025-07-10 03:31:05.268 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:31:05.268 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VOO
+2025-07-10 03:31:05.268 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:31:05.268 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:31:05.270 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:31:05.270 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:31:05.270 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:31:05.270 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:31:05.271 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:31:05.271 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:31:05.931 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:31:05.931 | INFO     | src.utils.logger:log_info:258 | Alpaca executor initialized (Paper: True)
+2025-07-10 03:31:06.582 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:31:06.582 | INFO     | src.utils.logger:log_info:258 | Alpaca executor initialized (Paper: True)
+2025-07-10 03:31:06.583 | INFO     | src.utils.logger:log_info:258 | Risk manager initialized
+2025-07-10 03:31:06.601 | INFO     | src.utils.logger:log_info:258 | Fetching historical data for SPY from API
+2025-07-10 03:31:07.368 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-10 03:31:07.370 | INFO     | src.utils.logger:log_info:258 | Fetching historical data for SPY from API
+2025-07-10 03:31:07.560 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-10 03:31:07.562 | INFO     | src.utils.logger:log_info:258 | Fetching historical data for SPY from API
+2025-07-10 03:31:07.750 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-10 03:31:07.954 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:31:08.157 | ERROR    | src.utils.logger:log_error:266 | Error updating positions: {"message": "forbidden."}
+
+2025-07-10 03:32:30.983 | INFO     | utils.logger:log_info:258 | Test log message
+2025-07-10 03:32:30.987 | INFO     | utils.logger:log_trading_operation:109 | TRADE: {"timestamp": "2025-07-10T03:32:30.984117", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+2025-07-10 03:32:30.990 | WARNING  | utils.logger:log_risk_event:155 | RISK: {"timestamp": "2025-07-10T03:32:30.987645", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}
+2025-07-10 03:32:31.547 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:32:31.771 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:32:31.772 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for SPY
+2025-07-10 03:32:31.772 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for QQQ
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for IWM
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VTI
+2025-07-10 03:32:31.773 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:32:31.774 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for VOO
+2025-07-10 03:32:31.774 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:32:31.774 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:32:31.777 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 03:32:31.778 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for TEST
+2025-07-10 03:32:31.778 | DEBUG    | src.utils.logger:log_debug:270 | Prepared 250 return observations for TEST
+2025-07-10 03:32:31.807 | ERROR    | src.utils.logger:log_error:266 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 03:32:31.811 | INFO     | src.utils.logger:log_garch_prediction:131 | GARCH: {"timestamp": "2025-07-10T03:32:31.808194", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 03:32:31.811 | INFO     | src.utils.logger:log_info:258 | GARCH model fitted for TEST with 200 observations
+2025-07-10 03:32:31.815 | INFO     | src.utils.logger:log_garch_prediction:131 | GARCH: {"timestamp": "2025-07-10T03:32:31.812597", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 03:32:31.817 | INFO     | src.utils.logger:log_info:258 | Market data manager initialized
+2025-07-10 03:32:31.817 | INFO     | src.utils.logger:log_info:258 | GARCH model initialized for TEST
+2025-07-10 03:32:31.817 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for TEST
+2025-07-10 03:32:32.047 | INFO     | src.utils.logger:log_info:258 | Refitting GARCH model for TEST
+2025-07-10 03:32:32.047 | DEBUG    | src.utils.logger:log_debug:270 | Prepared 299 return observations for TEST
+2025-07-10 03:32:32.057 | ERROR    | src.utils.logger:log_error:266 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 03:32:32.061 | INFO     | src.utils.logger:log_garch_prediction:131 | GARCH: {"timestamp": "2025-07-10T03:32:32.057641", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 03:32:32.061 | INFO     | src.utils.logger:log_info:258 | GARCH model fitted for TEST with 239 observations
+2025-07-10 03:32:32.065 | INFO     | src.utils.logger:log_garch_prediction:131 | GARCH: {"timestamp": "2025-07-10T03:32:32.061804", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 03:32:32.071 | INFO     | src.utils.logger:log_info:258 | Generated signal for TEST: HOLD (strength: 0.036)
+2025-07-10 03:32:32.072 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for SPY
+2025-07-10 03:32:32.073 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for QQQ
+2025-07-10 03:32:32.073 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for IWM
+2025-07-10 03:32:32.073 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VTI
+2025-07-10 03:32:32.073 | INFO     | src.utils.logger:log_info:258 | GARCH trading strategy initialized for VOO
+2025-07-10 03:32:32.074 | INFO     | src.utils.logger:log_info:258 | Strategy manager initialized with 5 strategies
+2025-07-10 03:32:32.687 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 03:32:32.688 | INFO     | src.utils.logger:log_info:258 | Alpaca executor initialized (Paper: True)
+2025-07-10 03:32:32.689 | INFO     | src.utils.logger:log_info:258 | Risk manager initialized
+2025-07-10 03:32:32.689 | INFO     | src.utils.logger:log_info:258 | Risk manager initialized
+2025-07-10 03:32:32.689 | DEBUG    | src.utils.logger:log_debug:270 | Position size calculation for TEST: base=210, vol_adj=1.000, corr_adj=1.000, conc_adj=1.000, dd_adj=1.000, final=100
+2025-07-10 17:08:10.181 | INFO     | src.utils.logger:log_info:258 | GARCH model manager initialized
+2025-07-10 17:08:10.386 | INFO     | utils.logger:log_info:258 | Test info message
+2025-07-10 17:08:10.387 | ERROR    | utils.logger:log_error:266 | Test error message
+2025-07-10 17:08:10.387 | DEBUG    | utils.logger:log_debug:270 | Test debug message
+2025-07-10 17:13:10.075 | INFO     | utils.logger:log_info:262 | Minimal model manager initialized
+2025-07-10 17:13:10.083 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST
+2025-07-10 17:13:10.083 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST
+2025-07-10 17:13:10.088 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST
+2025-07-10 17:13:10.088 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST
+2025-07-10 17:13:10.089 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST
+2025-07-10 17:13:10.089 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST
+2025-07-10 17:13:10.090 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for TEST
+2025-07-10 17:13:10.090 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST
+2025-07-10 17:13:10.090 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST
+2025-07-10 17:13:10.090 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for TEST: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:13:10.092 | INFO     | utils.logger:log_info:262 | Test info message
+2025-07-10 17:13:10.092 | ERROR    | utils.logger:log_error:270 | Test error message
+2025-07-10 17:13:10.092 | DEBUG    | utils.logger:log_debug:274 | Test debug message
+2025-07-10 17:13:27.799 | INFO     | utils.logger:log_info:262 | Minimal model manager initialized
+2025-07-10 17:13:27.801 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST
+2025-07-10 17:13:27.801 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST
+2025-07-10 17:13:27.803 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST
+2025-07-10 17:13:27.804 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST
+2025-07-10 17:13:27.805 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for TEST: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:13:27.808 | INFO     | utils.logger:log_info:262 | Test info message
+2025-07-10 17:13:27.808 | ERROR    | utils.logger:log_error:270 | Test error message
+2025-07-10 17:13:27.808 | DEBUG    | utils.logger:log_debug:274 | Test debug message
+2025-07-10 17:13:28.032 | INFO     | utils.logger:log_info:262 | Market data manager initialized
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST1
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST1
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for TEST1
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for TEST2
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for TEST2
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for TEST2
+2025-07-10 17:13:28.035 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST1
+2025-07-10 17:13:28.036 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST1
+2025-07-10 17:13:28.036 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for TEST1: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:13:28.036 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for TEST2
+2025-07-10 17:13:28.036 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for TEST2
+2025-07-10 17:13:28.036 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for TEST2: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for INTEGRATION_TEST
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for INTEGRATION_TEST
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for INTEGRATION_TEST
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for INTEGRATION_TEST
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for INTEGRATION_TEST
+2025-07-10 17:13:28.041 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for INTEGRATION_TEST: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:14:25.093 | INFO     | utils.logger:log_info:262 | Minimal model manager initialized
+2025-07-10 17:14:25.275 | INFO     | utils.logger:log_info:262 | Market data manager initialized
+2025-07-10 17:14:33.247 | INFO     | src.utils.logger:log_info:262 | GARCH model manager initialized
+2025-07-10 17:15:20.200 | INFO     | utils.logger:log_info:262 | Minimal model manager initialized
+2025-07-10 17:15:20.391 | INFO     | utils.logger:log_info:262 | Market data manager initialized
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for SPY
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for SPY
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for SPY
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for SPY
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for SPY
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for SPY: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:15:20.452 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for QQQ
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for QQQ
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for QQQ
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for QQQ
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for QQQ
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for QQQ: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal LSTM model initialized for IWM
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model initialized for IWM
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal ensemble model initialized for IWM
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal LSTM model fitted for IWM
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal XGBoost model fitted for IWM
+2025-07-10 17:15:20.453 | INFO     | utils.logger:log_info:262 | Minimal ensemble model fitting results for IWM: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 21:30:15.579 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:31:06.514 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:31:32.345 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:33:19.741 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:33:19.989 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:33:19.991 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:33:19.991 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:33:19.991 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:33:19.992 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:33:19.993 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:33:19.993 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:33:39.847 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:33:40.101 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:33:40.102 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:33:40.102 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:33:40.103 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:33:40.103 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:33:40.103 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:33:40.103 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:33:40.104 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:33:40.104 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:33:40.104 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:33:40.104 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:33:40.104 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:33:40.105 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:34:18.350 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:34:18.605 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:34:18.606 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:34:18.606 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:34:18.606 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:34:18.607 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:34:18.607 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:34:18.607 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:34:18.607 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:34:18.607 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:34:18.608 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:34:18.608 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:34:18.608 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:34:18.609 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:34:18.609 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:34:18.609 | INFO     | src.utils.logger:log_info:265 | Disconnected from MT5
+2025-07-10 21:34:18.609 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:34:18.609 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:34:18.617 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:34:18.698 | DEBUG    | src.utils.logger:log_debug:277 | Insufficient data for signal generation: 99 points
+2025-07-10 21:34:18.698 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:34:18.698 | INFO     | src.utils.logger:log_info:265 | Disconnected from MT5
+2025-07-10 21:34:42.448 | INFO     | utils.logger:log_info:265 | Test log message
+2025-07-10 21:34:42.452 | INFO     | utils.logger:log_trading_operation:116 | TRADE: {"timestamp": "2025-07-10T21:34:42.449006", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+2025-07-10 21:34:42.456 | WARNING  | utils.logger:log_risk_event:162 | RISK: {"timestamp": "2025-07-10T21:34:42.453039", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}
+2025-07-10 21:34:43.014 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:34:43.242 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:34:43.243 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:34:43.244 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:34:43.244 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:34:43.244 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:34:43.245 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:34:43.245 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:34:43.245 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:34:43.245 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:34:43.245 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:34:43.246 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:34:43.246 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:34:43.250 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:34:43.250 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for TEST
+2025-07-10 21:34:43.251 | DEBUG    | src.utils.logger:log_debug:277 | Prepared 250 return observations for TEST
+2025-07-10 21:34:43.281 | ERROR    | src.utils.logger:log_error:273 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 21:34:43.285 | INFO     | src.utils.logger:log_garch_prediction:138 | GARCH: {"timestamp": "2025-07-10T21:34:43.281924", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 21:34:43.285 | INFO     | src.utils.logger:log_info:265 | GARCH model fitted for TEST with 200 observations
+2025-07-10 21:34:43.289 | INFO     | src.utils.logger:log_garch_prediction:138 | GARCH: {"timestamp": "2025-07-10T21:34:43.286227", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 21:34:43.290 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:34:43.291 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for TEST
+2025-07-10 21:34:43.291 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for TEST
+2025-07-10 21:34:43.515 | INFO     | src.utils.logger:log_info:265 | Refitting GARCH model for TEST
+2025-07-10 21:34:43.515 | DEBUG    | src.utils.logger:log_debug:277 | Prepared 299 return observations for TEST
+2025-07-10 21:34:43.525 | ERROR    | src.utils.logger:log_error:273 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 21:34:43.528 | INFO     | src.utils.logger:log_garch_prediction:138 | GARCH: {"timestamp": "2025-07-10T21:34:43.525500", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 21:34:43.529 | INFO     | src.utils.logger:log_info:265 | GARCH model fitted for TEST with 239 observations
+2025-07-10 21:34:43.533 | INFO     | src.utils.logger:log_garch_prediction:138 | GARCH: {"timestamp": "2025-07-10T21:34:43.529739", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 21:34:43.539 | INFO     | src.utils.logger:log_info:265 | Generated signal for TEST: HOLD (strength: 0.036)
+2025-07-10 21:34:43.541 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:34:43.541 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:34:43.542 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:34:43.542 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:34:43.542 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:34:43.542 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:34:44.441 | ERROR    | src.utils.logger:log_error:273 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 21:34:44.441 | INFO     | src.utils.logger:log_info:265 | Alpaca executor initialized (Paper: True)
+2025-07-10 21:34:44.443 | INFO     | src.utils.logger:log_info:265 | Risk manager initialized
+2025-07-10 21:34:44.443 | INFO     | src.utils.logger:log_info:265 | Risk manager initialized
+2025-07-10 21:34:44.443 | DEBUG    | src.utils.logger:log_debug:277 | Position size calculation for TEST: base=210, vol_adj=1.000, corr_adj=1.000, conc_adj=1.000, dd_adj=1.000, final=100
+2025-07-10 21:39:24.435 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:39:24.694 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:39:24.695 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:39:24.696 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:39:24.696 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:39:24.696 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:39:24.696 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:39:24.696 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:39:24.697 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:39:24.697 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:39:24.697 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:39:24.697 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:39:24.697 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:39:24.698 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:39:24.698 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 0, Balance: $10000.00
+2025-07-10 21:39:24.698 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:39:24.699 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:39:24.699 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:48:52.998 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:48:53.365 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:48:53.366 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:48:53.367 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:48:53.367 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:48:53.367 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:48:53.368 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:48:53.368 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:48:53.368 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:48:53.368 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:48:53.368 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:48:53.369 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:48:53.369 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:48:53.370 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 21:48:53.370 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 21:48:53.370 | INFO     | src.utils.logger:log_info:265 | Disconnected from MT5
+2025-07-10 21:49:28.404 | INFO     | src.utils.logger:log_info:265 | GARCH model manager initialized
+2025-07-10 21:49:28.648 | INFO     | src.utils.logger:log_info:265 | Market data manager initialized
+2025-07-10 21:49:28.649 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for EURUSD
+2025-07-10 21:49:28.649 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for EURUSD
+2025-07-10 21:49:28.650 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for GBPUSD
+2025-07-10 21:49:28.650 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 21:49:28.650 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDJPY
+2025-07-10 21:49:28.650 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDJPY
+2025-07-10 21:49:28.650 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for AUDUSD
+2025-07-10 21:49:28.651 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 21:49:28.651 | INFO     | src.utils.logger:log_info:265 | GARCH model initialized for USDCAD
+2025-07-10 21:49:28.651 | INFO     | src.utils.logger:log_info:265 | GARCH trading strategy initialized for USDCAD
+2025-07-10 21:49:28.651 | INFO     | src.utils.logger:log_info:265 | Strategy manager initialized with 5 strategies
+2025-07-10 21:49:28.652 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 21:49:28.652 | INFO     | src.utils.logger:log_info:265 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 21:49:28.652 | INFO     | src.utils.logger:log_info:265 | Disconnected from MT5
+2025-07-10 22:12:56.047 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:12:57.101 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:12:57.104 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 22:12:57.105 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:12:57.105 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 22:12:57.105 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:12:57.105 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 22:12:57.106 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:12:57.106 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 22:12:57.106 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:12:57.106 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 22:12:57.107 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:12:57.107 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:12:57.108 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:12:57.108 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:12:57.108 | INFO     | src.utils.logger:log_info:273 | Disconnected from MT5
+2025-07-10 22:12:57.108 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:09.111 | INFO     | utils.logger:log_info:273 | Test log message
+2025-07-10 22:13:09.114 | INFO     | utils.logger:log_trading_operation:124 | TRADE: {"timestamp": "2025-07-10T22:13:09.111489", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+2025-07-10 22:13:09.118 | WARNING  | utils.logger:log_risk_event:170 | RISK: {"timestamp": "2025-07-10T22:13:09.115072", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}
+2025-07-10 22:13:09.688 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:09.914 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:09.915 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 22:13:09.916 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:09.916 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 22:13:09.916 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:09.916 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:09.917 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:09.928 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:09.929 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for TEST
+2025-07-10 22:13:09.929 | DEBUG    | src.utils.logger:log_debug:285 | Prepared 250 return observations for TEST
+2025-07-10 22:13:09.960 | ERROR    | src.utils.logger:log_error:281 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 22:13:09.964 | INFO     | src.utils.logger:log_garch_prediction:146 | GARCH: {"timestamp": "2025-07-10T22:13:09.961125", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 22:13:09.965 | INFO     | src.utils.logger:log_info:273 | GARCH model fitted for TEST with 200 observations
+2025-07-10 22:13:09.969 | INFO     | src.utils.logger:log_garch_prediction:146 | GARCH: {"timestamp": "2025-07-10T22:13:09.966262", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+2025-07-10 22:13:09.971 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:09.971 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for TEST
+2025-07-10 22:13:09.971 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for TEST
+2025-07-10 22:13:10.208 | INFO     | src.utils.logger:log_info:273 | Refitting GARCH model for TEST
+2025-07-10 22:13:10.208 | DEBUG    | src.utils.logger:log_debug:285 | Prepared 299 return observations for TEST
+2025-07-10 22:13:10.218 | ERROR    | src.utils.logger:log_error:281 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+2025-07-10 22:13:10.222 | INFO     | src.utils.logger:log_garch_prediction:146 | GARCH: {"timestamp": "2025-07-10T22:13:10.218797", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 22:13:10.222 | INFO     | src.utils.logger:log_info:273 | GARCH model fitted for TEST with 239 observations
+2025-07-10 22:13:10.226 | INFO     | src.utils.logger:log_garch_prediction:146 | GARCH: {"timestamp": "2025-07-10T22:13:10.222990", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+2025-07-10 22:13:10.232 | INFO     | src.utils.logger:log_info:273 | Generated signal for TEST: HOLD (strength: 0.036)
+2025-07-10 22:13:10.234 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:10.234 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:10.235 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:10.235 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:10.235 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:10.235 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:11.123 | ERROR    | src.utils.logger:log_error:281 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 22:13:11.123 | INFO     | src.utils.logger:log_info:273 | Alpaca executor initialized (Paper: True)
+2025-07-10 22:13:11.124 | INFO     | src.utils.logger:log_info:273 | Risk manager initialized
+2025-07-10 22:13:11.124 | INFO     | src.utils.logger:log_info:273 | Risk manager initialized
+2025-07-10 22:13:11.124 | DEBUG    | src.utils.logger:log_debug:285 | Position size calculation for TEST: base=210, vol_adj=1.000, corr_adj=1.000, conc_adj=1.000, dd_adj=1.000, final=100
+2025-07-10 22:13:12.244 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:12.492 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:12.493 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 22:13:12.493 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:12.494 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 22:13:12.494 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:12.494 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 22:13:12.494 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:12.494 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 22:13:12.495 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:12.495 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 22:13:12.495 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:12.495 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:12.496 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:13:12.496 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:13:12.496 | INFO     | src.utils.logger:log_info:273 | Disconnected from MT5
+2025-07-10 22:13:12.496 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:12.497 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:12.499 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:12.574 | DEBUG    | src.utils.logger:log_debug:285 | Insufficient data for signal generation: 99 points
+2025-07-10 22:13:12.574 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:13:12.574 | INFO     | src.utils.logger:log_info:273 | Disconnected from MT5
+2025-07-10 22:13:14.328 | INFO     | utils.logger:log_info:273 | Minimal model manager initialized
+2025-07-10 22:13:14.331 | INFO     | utils.logger:log_info:273 | Minimal LSTM model initialized for TEST
+2025-07-10 22:13:14.331 | INFO     | utils.logger:log_info:273 | Minimal LSTM model fitted for TEST
+2025-07-10 22:13:14.333 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model initialized for TEST
+2025-07-10 22:13:14.333 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model fitted for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal LSTM model initialized for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model initialized for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal ensemble model initialized for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal LSTM model fitted for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model fitted for TEST
+2025-07-10 22:13:14.335 | INFO     | utils.logger:log_info:273 | Minimal ensemble model fitting results for TEST: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 22:13:14.337 | INFO     | utils.logger:log_info:273 | Test info message
+2025-07-10 22:13:14.337 | ERROR    | utils.logger:log_error:281 | Test error message
+2025-07-10 22:13:14.337 | DEBUG    | utils.logger:log_debug:285 | Test debug message
+2025-07-10 22:13:14.600 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:15.267 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:15.269 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:15.270 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 22:13:15.270 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:15.270 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:15.271 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 22:13:15.272 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:15.272 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:15.272 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for TEST
+2025-07-10 22:13:15.272 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for TEST
+2025-07-10 22:13:15.274 | INFO     | utils.logger:log_info:273 | Minimal LSTM model initialized for TEST1
+2025-07-10 22:13:15.274 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model initialized for TEST1
+2025-07-10 22:13:15.274 | INFO     | utils.logger:log_info:273 | Minimal ensemble model initialized for TEST1
+2025-07-10 22:13:15.274 | INFO     | utils.logger:log_info:273 | Minimal LSTM model initialized for TEST2
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model initialized for TEST2
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal ensemble model initialized for TEST2
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal LSTM model fitted for TEST1
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model fitted for TEST1
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal ensemble model fitting results for TEST1: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal LSTM model fitted for TEST2
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model fitted for TEST2
+2025-07-10 22:13:15.275 | INFO     | utils.logger:log_info:273 | Minimal ensemble model fitting results for TEST2: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 22:13:15.281 | INFO     | utils.logger:log_info:273 | Minimal LSTM model initialized for INTEGRATION_TEST
+2025-07-10 22:13:15.281 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model initialized for INTEGRATION_TEST
+2025-07-10 22:13:15.281 | INFO     | utils.logger:log_info:273 | Minimal ensemble model initialized for INTEGRATION_TEST
+2025-07-10 22:13:15.282 | INFO     | utils.logger:log_info:273 | Minimal LSTM model fitted for INTEGRATION_TEST
+2025-07-10 22:13:15.282 | INFO     | utils.logger:log_info:273 | Minimal XGBoost model fitted for INTEGRATION_TEST
+2025-07-10 22:13:15.282 | INFO     | utils.logger:log_info:273 | Minimal ensemble model fitting results for INTEGRATION_TEST: {'lstm': True, 'xgboost': True, 'garch': True}
+2025-07-10 22:13:15.602 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:15.602 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:15.603 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:15.603 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:15.603 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:15.603 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:16.242 | ERROR    | src.utils.logger:log_error:281 | Error updating account info: {"message": "forbidden."}
+
+2025-07-10 22:13:16.243 | INFO     | src.utils.logger:log_info:273 | Alpaca executor initialized (Paper: True)
+2025-07-10 22:13:16.295 | INFO     | src.utils.logger:log_info:273 | Risk manager initialized
+2025-07-10 22:13:16.296 | INFO     | src.utils.logger:log_info:273 | Enhanced risk manager initialized
+2025-07-10 22:13:16.297 | INFO     | src.utils.logger:log_info:273 | Enhanced risk manager initialized
+2025-07-10 22:13:16.298 | INFO     | src.utils.logger:log_info:273 | Enhanced risk manager initialized
+2025-07-10 22:13:16.299 | INFO     | src.utils.logger:log_info:273 | Enhanced risk manager initialized
+2025-07-10 22:13:16.299 | ERROR    | src.utils.logger:log_error:281 | Error calculating dynamic position size: 'RiskConfig' object has no attribute 'max_position_size'
+2025-07-10 22:13:16.384 | INFO     | utils.logger:log_info:273 | Test info message
+2025-07-10 22:13:16.384 | ERROR    | utils.logger:log_error:281 | Test error message
+2025-07-10 22:13:16.384 | DEBUG    | utils.logger:log_debug:285 | Test debug message
+2025-07-10 22:13:16.385 | ERROR    | src.utils.logger:log_error:281 | Error calculating enhanced risk metrics: log_risk() takes 5 positional arguments but 6 were given
+2025-07-10 22:13:59.201 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 22:13:59.762 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 22:13:59.764 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 22:13:59.765 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 22:13:59.765 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 22:13:59.766 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 22:13:59.766 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 22:13:59.766 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 22:13:59.766 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 22:13:59.767 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 22:13:59.767 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 22:13:59.767 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 22:13:59.767 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | Disconnected from MT5
+2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD

@@ -1,0 +1,216 @@
+GARCH: {"timestamp": "2025-07-10T03:32:31.808194", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH model fitted for TEST with 200 observations
+GARCH: {"timestamp": "2025-07-10T03:32:31.812597", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH: {"timestamp": "2025-07-10T03:32:31.812597", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+Market data manager initialized
+Market data manager initialized
+GARCH model initialized for TEST
+GARCH model initialized for TEST
+GARCH trading strategy initialized for TEST
+GARCH trading strategy initialized for TEST
+Refitting GARCH model for TEST
+Refitting GARCH model for TEST
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+GARCH: {"timestamp": "2025-07-10T03:32:32.057641", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T03:32:32.057641", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T03:32:32.057641", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH: {"timestamp": "2025-07-10T03:32:32.061804", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T03:32:32.061804", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T03:32:32.061804", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T03:32:32.061804", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+GARCH trading strategy initialized for SPY
+GARCH trading strategy initialized for SPY
+GARCH trading strategy initialized for SPY
+GARCH trading strategy initialized for SPY
+GARCH trading strategy initialized for QQQ
+GARCH trading strategy initialized for QQQ
+GARCH trading strategy initialized for QQQ
+GARCH trading strategy initialized for QQQ
+GARCH trading strategy initialized for IWM
+GARCH trading strategy initialized for IWM
+GARCH trading strategy initialized for IWM
+GARCH trading strategy initialized for IWM
+GARCH trading strategy initialized for VTI
+GARCH trading strategy initialized for VTI
+GARCH trading strategy initialized for VTI
+GARCH trading strategy initialized for VTI
+GARCH trading strategy initialized for VOO
+GARCH trading strategy initialized for VOO
+GARCH trading strategy initialized for VOO
+GARCH trading strategy initialized for VOO
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+GARCH: {"timestamp": "2025-07-10T21:34:43.281924", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH model fitted for TEST with 200 observations
+GARCH: {"timestamp": "2025-07-10T21:34:43.286227", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.286227", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+Market data manager initialized
+Market data manager initialized
+GARCH model initialized for TEST
+GARCH model initialized for TEST
+GARCH trading strategy initialized for TEST
+GARCH trading strategy initialized for TEST
+Refitting GARCH model for TEST
+Refitting GARCH model for TEST
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+GARCH: {"timestamp": "2025-07-10T21:34:43.525500", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.525500", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.525500", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH: {"timestamp": "2025-07-10T21:34:43.529739", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.529739", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.529739", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T21:34:43.529739", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+GARCH: {"timestamp": "2025-07-10T22:13:09.961125", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH model fitted for TEST with 200 observations
+GARCH: {"timestamp": "2025-07-10T22:13:09.966262", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+GARCH: {"timestamp": "2025-07-10T22:13:09.966262", "symbol": "TEST", "predicted_volatility": 0.7618550995661397, "confidence_interval": [0.6125315000511763, 0.9111786990811032], "model_params": {"omega": 0.05423890755790426, "alpha[1]": 0.059187013849858625, "beta[1]": 0.867776369774908}}
+Market data manager initialized
+Market data manager initialized
+GARCH model initialized for TEST
+GARCH model initialized for TEST
+GARCH trading strategy initialized for TEST
+GARCH trading strategy initialized for TEST
+Refitting GARCH model for TEST
+Refitting GARCH model for TEST
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue'
+GARCH: {"timestamp": "2025-07-10T22:13:10.218797", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T22:13:10.218797", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T22:13:10.218797", "symbol": "TEST", "predicted_volatility": 0.0, "confidence_interval": [0.0, 0.0], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH model fitted for TEST with 239 observations
+GARCH: {"timestamp": "2025-07-10T22:13:10.222990", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T22:13:10.222990", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T22:13:10.222990", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+GARCH: {"timestamp": "2025-07-10T22:13:10.222990", "symbol": "TEST", "predicted_volatility": 0.9562450732177935, "confidence_interval": [0.768821038867106, 1.143669107568481], "model_params": {"omega": 0.021187200926022793, "alpha[1]": 0.0, "beta[1]": 0.9768652862766468}}
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+Generated signal for TEST: HOLD (strength: 0.036)
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for EURUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for GBPUSD
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for USDJPY
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for AUDUSD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+GARCH trading strategy initialized for USDCAD
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Strategy manager initialized with 5 strategies
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Error updating account info: {"message": "forbidden."}
+
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Alpaca executor initialized (Paper: True)
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized
+Risk manager initialized

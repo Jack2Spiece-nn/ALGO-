@@ -1,0 +1,6 @@
+TRADE: {"timestamp": "2025-07-10T03:32:30.984117", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+RISK: {"timestamp": "2025-07-10T03:32:30.987645", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}
+TRADE: {"timestamp": "2025-07-10T21:34:42.449006", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+RISK: {"timestamp": "2025-07-10T21:34:42.453039", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}
+TRADE: {"timestamp": "2025-07-10T22:13:09.111489", "operation_type": "BUY", "symbol": "TEST", "quantity": 100, "price": 99.5, "additional_data": {"order_id": "test_123"}}
+RISK: {"timestamp": "2025-07-10T22:13:09.115072", "event_type": "TEST_RISK", "symbol": "TEST", "current_value": 0.05, "threshold": 0.02, "action_taken": "Test action"}

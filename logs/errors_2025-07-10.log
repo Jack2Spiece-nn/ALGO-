@@ -1,0 +1,57 @@
+2025-07-10 03:30:35.781 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 03:30:36.427 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 03:31:05.931 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 03:31:06.582 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 03:31:07.368 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+ | {}
+2025-07-10 03:31:07.560 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+ | {}
+2025-07-10 03:31:07.750 | ERROR    | src.utils.logger:log_error:266 | Error retrieving historical data: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+ | {}
+2025-07-10 03:31:07.954 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 03:31:08.157 | ERROR    | src.utils.logger:log_error:266 | Error updating positions: {"message": "forbidden."}
+ | {}
+2025-07-10 03:32:31.807 | ERROR    | src.utils.logger:log_error:266 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 03:32:32.057 | ERROR    | src.utils.logger:log_error:266 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 03:32:32.687 | ERROR    | src.utils.logger:log_error:266 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 17:08:10.387 | ERROR    | utils.logger:log_error:266 | Test error message | {}
+2025-07-10 17:13:10.092 | ERROR    | utils.logger:log_error:270 | Test error message | {}
+2025-07-10 17:13:27.808 | ERROR    | utils.logger:log_error:270 | Test error message | {}
+2025-07-10 21:34:43.281 | ERROR    | src.utils.logger:log_error:273 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 21:34:43.525 | ERROR    | src.utils.logger:log_error:273 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 21:34:44.441 | ERROR    | src.utils.logger:log_error:273 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 22:13:09.960 | ERROR    | src.utils.logger:log_error:281 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 22:13:10.218 | ERROR    | src.utils.logger:log_error:281 | Error calculating model metrics: 'WaldTestStatistic' object has no attribute 'pvalue' | {}
+2025-07-10 22:13:11.123 | ERROR    | src.utils.logger:log_error:281 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 22:13:14.337 | ERROR    | utils.logger:log_error:281 | Test error message | {}
+2025-07-10 22:13:16.242 | ERROR    | src.utils.logger:log_error:281 | Error updating account info: {"message": "forbidden."}
+ | {}
+2025-07-10 22:13:16.299 | ERROR    | src.utils.logger:log_error:281 | Error calculating dynamic position size: 'RiskConfig' object has no attribute 'max_position_size' | {}
+2025-07-10 22:13:16.384 | ERROR    | utils.logger:log_error:281 | Test error message | {}
+2025-07-10 22:13:16.385 | ERROR    | src.utils.logger:log_error:281 | Error calculating enhanced risk metrics: log_risk() takes 5 positional arguments but 6 were given | {}

@@ -1,0 +1,107 @@
+# GARCH Intraday Trading Strategy Configuration
+
+# Trading Environment
+environment: "paper"  # "paper" or "live"
+
+# Broker Configuration
+broker:
+  name: "mt5"
+  mt5_path: "C:\\Users\\guest_1\\AppData\\Roaming\\MetaTrader 5\\terminal64.exe"  # Path to MT5 terminal
+  login: 94435704  # MT5 account login
+  server: "MetaQuotes-Demo"  # MT5 server
+  password: "Z_4uYgWf"  # MT5 password
+  investor: "PuAu!oQ3"  # Investor password (read-only access)
+  timeout: 60000  # Connection timeout in milliseconds
+  account_name: "Arjay Siega"  # Account holder name
+  account_type: "Forex Hedged USD"  # Account type
+  
+# Symbol Configuration (MT5 format)
+symbols:
+  primary: "EURUSD"
+  watchlist: ["EURUSD", "GBPUSD", "USDJPY", "AUDUSD", "USDCAD"]
+
+# Data Configuration
+data:
+  timeframes:
+    - "1Min"
+    - "5Min"
+    - "15Min"
+  lookback_days: 252  # 1 year of trading days
+  min_data_points: 100
+
+# GARCH Model Configuration
+garch:
+  model_type: "GARCH"  # "GARCH", "GJR-GARCH", "EGARCH"
+  p: 1  # GARCH order
+  q: 1  # ARCH order
+  mean_model: "Zero"  # "Zero", "Constant", "AR"
+  distribution: "normal"  # "normal", "t", "skewt"
+  rescale: true
+  forecast_horizon: 1
+  rolling_window: 250
+  refit_frequency: 20  # Refit model every N days
+
+# Strategy Configuration
+strategy:
+  name: "GARCH_Intraday"
+  position_sizing_method: "volatility_target"  # "fixed", "volatility_target", "kelly"
+  volatility_target: 0.15  # 15% annual volatility target
+  max_position_size: 0.10  # 10% of portfolio per position
+  signal_threshold: 0.02  # Minimum signal strength
+  hold_period_minutes: 240  # 4 hours maximum hold
+  
+# MT5 Position Sizing Configuration
+mt5_position_sizing:
+  lot_size: 0.1  # Standard lot size for MT5
+  max_lot_size: 1.0  # Maximum lot size per position
+  min_lot_size: 0.01  # Minimum lot size
+  lot_step: 0.01  # Lot size increment
+  risk_per_trade: 0.02  # 2% risk per trade
+  use_fixed_lot: false  # Use fixed lot size or dynamic sizing
+  
+# Risk Management
+risk:
+  max_daily_loss: 0.02  # 2% daily loss limit
+  max_drawdown: 0.10  # 10% maximum drawdown
+  stop_loss_pct: 0.015  # 1.5% stop loss
+  take_profit_pct: 0.03  # 3% take profit
+  position_timeout_minutes: 240  # 4 hours
+  max_positions: 3
+
+# Trading Hours (24/5 Forex Market)
+trading_hours:
+  market_open: "00:00"  # Forex market opens Sunday 5 PM EST
+  market_close: "23:59"  # Forex market closes Friday 5 PM EST
+  timezone: "UTC"
+  exclude_first_minutes: 0  # Forex doesn't have opening gaps like stocks
+  exclude_last_minutes: 0   # Forex doesn't have closing gaps like stocks
+  avoid_weekend: true  # Avoid weekend trading
+  avoid_news_events: true  # Avoid high-impact news events
+
+# Backtesting Configuration
+backtesting:
+  start_date: "2023-01-01"
+  end_date: "2024-12-31"
+  initial_capital: 100000
+  commission: 0.001  # 0.1% commission
+  slippage: 0.0005   # 0.05% slippage
+
+# Monitoring and Alerting
+monitoring:
+  log_level: "INFO"
+  alert_email: null
+  alert_webhook: null
+  performance_update_frequency: 3600  # 1 hour in seconds
+
+# Database Configuration
+database:
+  enabled: false
+  type: "sqlite"  # "sqlite", "postgresql"
+  path: "data/trading_data.db"
+  
+# Development Settings
+development:
+  debug: false
+  save_plots: true
+  plot_directory: "logs/plots"
+  save_predictions: true
