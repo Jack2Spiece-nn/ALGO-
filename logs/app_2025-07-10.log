@@ -528,3 +528,46 @@
 2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
 2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | Disconnected from MT5
 2025-07-10 22:13:59.768 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 23:51:54.689 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 23:51:55.100 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 23:51:55.102 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 23:51:55.103 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 23:51:55.103 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 23:51:55.103 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 23:51:55.103 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 23:51:55.103 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 23:51:55.104 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 23:51:55.104 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 23:51:55.104 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 23:51:55.104 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 23:51:55.104 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 23:51:55.105 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 23:52:29.393 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 23:52:29.645 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 23:52:29.646 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 23:52:29.647 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 23:52:29.648 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 23:52:29.648 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 23:52:29.648 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 23:52:29.649 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 23:52:29.650 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 23:52:51.508 | INFO     | src.utils.logger:log_info:273 | GARCH model manager initialized
+2025-07-10 23:52:51.753 | INFO     | src.utils.logger:log_info:273 | Market data manager initialized
+2025-07-10 23:52:51.754 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for EURUSD
+2025-07-10 23:52:51.755 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for EURUSD
+2025-07-10 23:52:51.755 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for GBPUSD
+2025-07-10 23:52:51.755 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for GBPUSD
+2025-07-10 23:52:51.755 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDJPY
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDJPY
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for AUDUSD
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for AUDUSD
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | GARCH model initialized for USDCAD
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | GARCH trading strategy initialized for USDCAD
+2025-07-10 23:52:51.756 | INFO     | src.utils.logger:log_info:273 | Strategy manager initialized with 5 strategies
+2025-07-10 23:52:51.757 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00
+2025-07-10 23:52:51.757 | INFO     | src.utils.logger:log_info:273 | Connected to MT5 - Account: 94435704, Balance: $10000.00

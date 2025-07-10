@@ -41,7 +41,7 @@ class TradingEngine:
         self.risk_manager = risk_manager
         
         # Initialize executor based on broker configuration
-        broker_name = config.get_broker_config().get('name', 'mt5')
+        broker_name = config.get_broker_config().name
         if broker_name == 'mt5':
             from src.execution.mt5_executor import mt5_executor
             self.executor = mt5_executor
@@ -51,7 +51,7 @@ class TradingEngine:
         
         # Configuration
         self.symbols = config.get_symbols()
-        self.primary_symbol = self.symbols.get('primary', 'SPY')
+        self.primary_symbol = self.symbols.get('primary', 'EURUSD')
         self.watchlist = self.symbols.get('watchlist', [self.primary_symbol])
         
         # Trading state

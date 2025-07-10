@@ -37,7 +37,7 @@ except ImportError:
                 'balance': self.mock_balance,
                 'equity': self.mock_balance,
                 'margin': 0.0,
-                'free_margin': self.mock_balance,
+                'margin_free': self.mock_balance,
                 'margin_level': 0.0,
                 'currency': 'USD',
                 'profit': 0.0,
@@ -649,12 +649,12 @@ class MT5Executor:
             
             return {
                 'account_value': account_info.balance,
-                'buying_power': account_info.free_margin,
+                'buying_power': account_info.margin_free,
                 'equity': account_info.equity,
                 'positions_count': len(positions),
                 'total_pnl': sum(pos.unrealized_pnl for pos in positions.values()),
                 'margin_used': account_info.margin,
-                'margin_free': account_info.free_margin,
+                'margin_free': account_info.margin_free,
                 'margin_level': account_info.margin_level,
                 'currency': account_info.currency,
                 'leverage': account_info.leverage
